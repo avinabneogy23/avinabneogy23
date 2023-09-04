@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Avinab Neogy, an amateur data scientist with a knack for turning data into actionable insights. My journey in the world of data has been an exciting one, filled with opportunities to explore, learn, and contribute to various projects. Over the years, I've honed my skills in data analysis, visualization, machine learning, and more. I'm always eager to dive into new datasets and tackle challenging problems.
+
+But that's not all! In addition to my data science endeavors, I also have a deep passion for creating R packages. These packages are a testament to my commitment to open-source development and my desire to make data analysis more accessible and efficient for others in the community.
 
 <!--
 **avinabneogy23/avinabneogy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
