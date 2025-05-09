@@ -1,7 +1,6 @@
-Hi there, I'm Avinab Neogy, an amateur data scientist with a knack for turning data into actionable insights. Over time, I've improved my skills in data analysis, visualization, machine learning, and more. I'm always eager to dive into new datasets and tackle challenging problems.
+I'm Avinab Neogy, a data scientist passionate about transforming complex information into meaningful insights. My journey has sharpened my skills in data analysis, visualization, and machine learning using R, Python, and PyTorch. 
 
-But that's not all! In addition to my data science endeavors, I also have a deep passion for creating and contributing to R packages.
-I am an active member of the R Contributers group.
+I specialize in mechanistic interpretability to understand how models actually work beneath the surface. When I'm not exploring new datasets or solving challenging problems, you'll find me actively contributing to R packages as part of the R Contributors community. I thrive at the intersection of analytical thinking and practical problem-solving, using my technical expertise to build transparent and explainable AI systems.
 
 <!--
 **avinabneogy23/avinabneogy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
